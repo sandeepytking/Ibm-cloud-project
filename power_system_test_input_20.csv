@@ -1,0 +1,21 @@
+Fault ID,"Fault Location (Latitude, Longitude)",Voltage (V),Current (A),Power Load (MW),Temperature (°C),Wind Speed (km/h),Weather Condition,Maintenance Status,Component Health,Duration of Fault (hrs),Down time (hrs)
+F301,"(34.0522, -118.2437)",1991,275,42,24,14,Snowy,Completed,Faulty,2.6,4.3
+F302,"(34.0570, -118.2450)",2143,269,57,36,13,Rainy,Pending,Faulty,2.2,1.8
+F303,"(34.0522, -118.2437)",2160,173,41,36,26,Windstorm,Pending,Faulty,3.1,2.8
+F304,"(34.0580, -118.2400)",2328,169,52,30,6,Snowy,Scheduled,Overheated,3.5,5.9
+F305,"(34.0550, -118.2420)",2105,209,56,37,16,Snowy,Pending,Overheated,3.2,5.3
+F306,"(34.0560, -118.2415)",2226,261,57,31,18,Rainy,Pending,Normal,2.1,2.8
+F307,"(34.0570, -118.2450)",1809,258,41,26,11,Rainy,Pending,Overheated,2.8,4.1
+F308,"(34.0560, -118.2415)",1877,233,40,39,20,Windstorm,Completed,Overheated,3.0,4.1
+F309,"(34.0530, -118.2440)",1889,152,54,30,18,Snowy,Pending,Normal,1.1,5.3
+F3010,"(34.0560, -118.2415)",2032,162,46,25,19,Rainy,Pending,Faulty,3.4,4.5
+F3011,"(34.0580, -118.2400)",2007,190,42,36,18,Snowy,Completed,Overheated,2.4,4.8
+F3012,"(34.0560, -118.2415)",2379,187,50,21,30,Windstorm,Completed,Overheated,4.8,4.2
+F3013,"(34.0550, -118.2420)",2018,168,43,39,22,Clear,Completed,Overheated,4.2,2.4
+F3014,"(34.0580, -118.2400)",1942,158,43,29,7,Clear,Completed,Overheated,2.2,2.1
+F3015,"(34.0550, -118.2420)",2093,218,56,25,16,Clear,Scheduled,Normal,3.1,5.4
+F3016,"(34.0570, -118.2450)",1918,212,43,38,10,Rainy,Scheduled,Normal,4.7,4.0
+F3017,"(34.0560, -118.2415)",2315,278,41,33,19,Snowy,Pending,Overheated,2.3,5.3
+F3018,"(34.0522, -118.2437)",2057,275,43,20,18,Snowy,Scheduled,Faulty,4.1,5.6
+F3019,"(34.0570, -118.2450)",1813,270,59,21,9,Windstorm,Scheduled,Faulty,1.5,5.8
+F3020,"(34.0550, -118.2420)",2252,157,47,27,6,Windstorm,Scheduled,Overheated,4.7,3.3
